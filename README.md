@@ -3,5 +3,5 @@
 
 
 # Give Star to this project.
-![Samson Sanyaolu](https://sosamson.com)
+[Samson Sanyaolu](https://sosamson.com)
 
